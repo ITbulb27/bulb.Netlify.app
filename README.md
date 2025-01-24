@@ -1,1 +1,139 @@
-# bulb.Netlify.app
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>All About Myself</title>
+</head>
+<body>
+
+    <style>
+        *{
+            background-color: gray;
+        }
+    </style>
+    <footer style="text-align: center;">
+    <h1>All About Myself</h1>
+</footer>
+
+    <header id="top">
+        <nav>
+            <ul>
+                <li><a href="Home"> HOME  </a></li>
+                <Li><a href="#All About Myself"> All About Myself  </a></Li>
+                <Li><a href="#My life Story">    My life Story   </a></Li>
+                <Li><a href="#Hobbies">  Hobbies </a></Li>
+                <Li><a href="#Favorite"> Favorite  </a></Li>
+                <li><a href="#Friend">Friend</a></li>
+
+            </ul>
+        </nav>
+    </header>
+
+    <hr>
+
+    <main>
+        <article id="All About Myself">
+            <section id="All About Myself">
+                <h2>All About Myself</h2>
+                <p>"Ronald REOJA i am 20 year old Second-year Bachelor Of Information Technology (BSIT) at Saint Michael College of Caraga. Originally from P-4, Brgy. CAHAYAGAN, Carmen, Agusan Del Norte,RONALD is Commited to Build a Future in the
+                     Computer world. This Stage of Life not only a commitment to learning but also the adaptability and resilence required to succeed in a changing environtment. " </p>
+                <figure>
+                    <img src="" alt="">
+                    <footer style="text-align: center;">
+                    <p  style="font-weight: bold;">RONALD JHON N. REOJA</p>
+                     </footer>
+                    </figcaption>
+                </figure>
+            </section>
+        <hr>
+            <section id="My life Story">
+                <h2>My life Story</h2>
+                <figure>
+                    <img src="team.jpg" alt="">
+                    <figcaption>
+                        Teenage Experience
+                    </figcaption>
+                    <p>  "My Team is Bikers Complte all couple Cycling Shirt For ready to go Long Rides "" <br>
+                        hiking, camping, mountaineering, cycling, dog walking, canoeing, caving, kayaking, rafting, rock climbing, running, sailing, skiing, sky diving and   surfing.
+                    </p>
+                    <br>
+                    <img src="IT.jpg" alt="">
+                    <figcaption style="font-weight: bold;">
+                        Adulthood Experience
+                    </figcaption>
+                    <p> "My life became a journey of growth and obstacles as a college student studying information technology (BSIT)"</p>
+                </figure>
+            </section>
+        </article>
+
+        <hr>
+
+        <article id="Hobbies">
+            <section>
+                <h2>Hobbies</h2>
+                <figure>
+                    <img src="bikers.jpg" alt="" height="250">
+                    <figcaption style="font-weight: bold;"">
+                        Outdoor 
+                    </figcaption>
+                    <p>   hiking, camping, mountaineering, cycling, dog walking, canoeing, caving, kayaking, rafting, rock climbing, running, sailing, skiing, sky diving and surfing.
+                    </p>
+                </figure>
+            </section>
+            <section>
+                <h2> </h2>
+                <figure>
+                    <img src="rj.jpg" alt="">
+                    <figcaption>
+                        Celebration brings energy
+                    </figcaption>
+                    <p> Purposeful celebration brings an energy to your team, and that energy will directly impact the performance they deliver. It feels good to be acknowledged. And it doesn’t take much. Sometimes it’s just a pat on the back or thumbs up from the right person at the right time. </p>
+                </figure>
+            </section>
+        </article>
+
+        <hr>
+
+        <article id="Favorite">
+            <section>
+                <h2>Favorite</h2>
+                <figure>
+                     <img src="yum.jpg" alt="">
+                     <p>I like Karne Adobo. It s the kind of dish that feels like home, no matter where you are. The smell of it cooking brings back so many memories—quiet dinners with family</p>
+                </figure>
+            </section>
+        </article>
+
+        <hr>
+
+        <article id="Friend">
+            <section>
+                <h2>Friend</h2>
+                <figure>
+                    <img src="team.jpg" alt="">
+                    <p> My Team Bikers Carmen [ Team CCC ]  Carmen Cycling Clup <br>
+                        <br> hiking, camping, mountaineering, cycling, dog walking, canoeing, caving, kayaking, rafting, rock climbing, running, sailing, skiing, sky diving and surfing.</p>
+                </figure>
+            </section>
+            <section>
+                <figure>
+                    <img src="tiluk.jpg" alt="">
+                    <figcaption>
+                        BARKADA
+                    </figcaption>
+                    <p>My Friend all respect Team ( telukam ) </p>
+                </figure>
+            </section>
+        </article>
+
+        <hr>
+
+        <footer style="text-align: center;">
+            <p style="font-weight: bold;">All Rights Reserved &copy; RJ REOJA 2024></p>
+            <a href="#top" style="text-align: center;"> BACK to Top</a>
+        </footer>
+   </main>
+
+</body>
+</html>
